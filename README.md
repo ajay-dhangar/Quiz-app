@@ -3,7 +3,7 @@
 ### For clone this repository in your machine pest below link in your terminal 👇
 
 ```
-git clone https://github.com/Milan-960/quiz-app.git
+git clone https://github.com/Ajay-Dhangar/Quiz-app.git
 ```
 
 ### Run below code to install dependency
